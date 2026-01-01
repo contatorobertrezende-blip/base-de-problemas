@@ -1,0 +1,5 @@
+{
+  "name": "QuickReply Sidebar",
+  "description": "A compact message snippet manager designed to run as a sidebar, allowing users to quickly find, copy, and manage template messages categorized for efficient client support.",
+  "requestFramePermissions": []
+}
